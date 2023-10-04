@@ -43,10 +43,11 @@ git remote remove origin
 - git push -u
 
 > ## **Origin Https Change**
-1. git remote remove origin
-2. git remote add origin https://github.com/ProgrammingHero1/redux-cart.git
-3. git push --set-upstream origin main
-4. git push --set-upstream origin main -f
+1. git remote -v  [note::Where are the files going]
+2. git remote remove origin
+3. git remote add origin https://github.com/ProgrammingHero1/redux-cart.git
+4. git push --set-upstream origin main
+5. git push --set-upstream origin main -f
 
 > ## **Origin diya download**
 - git clone https://github.com/ProgrammingHero1/redux-cart.git
