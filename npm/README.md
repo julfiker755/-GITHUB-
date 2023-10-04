@@ -37,8 +37,8 @@
 - *[Lucide](https://lucide.dev/)* - A collection Lucide
 ###  Merquee slider
 - *[react-fast-marquee](https://www.react-fast-marquee.com/)* - A collection react-fast-marquee
-
-
+###  animation
+- *[Aos](https://michalsnik.github.io/aos/)* - A collection aos
 
 
 
