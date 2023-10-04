@@ -87,9 +87,10 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
  ![alt text](11.png)
 > ## Brower Extensition
 - Brower Extension most important
-  - Copyfish (selct kore copy koro)
-  - GoFullPage (full page pdf,jpg,png kora)
-  - Pesticide for Chrome (website ke select kora)
+  - Copyfish [note:selct kore copy koro]
+  - GoFullPage [note:full page pdf,jpg,png kora]
+  - Pesticide for Chrome [note:website ke select kora]
+  - React Developer Tools  [note:react most popular extensition]
 > PowerShell Not working
 - Powershell Warning
   - PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes.
