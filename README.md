@@ -39,6 +39,7 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
 5. -------- Anathor system
 6. git remote -v
 7. git remote set-url origin https://github.com/ProgrammingHero1/redux-cart.git
+8. git push
 
 > ## **Origin diya download**
 - git clone https://github.com/ProgrammingHero1/redux-cart.git
