@@ -2,7 +2,7 @@
  <h1 style="color:red;" align="center">Next Level Web Development</h1>
 </p>
 
-> ## Misstion 1:Be Typescript Technocrat 
+
 - Module 2 :Explore Basic Types of Typescript and link [✔Module 2+Basic Types ](https://github.com/julfiker755/Basic-TypeScript-and-Types).
   - 2-1 Installation typescript , nvm & ts-node-dev
     - nvm node version-- [nvm](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/).
