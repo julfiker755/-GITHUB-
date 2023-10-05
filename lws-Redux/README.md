@@ -3,11 +3,9 @@
     <h1 align="center">Redux</h1>
 </p>
 
-- Why Redux !! What is Redux ?
-- Redux is a flexble state container for Javascript Apps that manges our application state separately
-- Redux is State Management system
-- Redux is State Management Tool
-- Redux a-->state=Global Storage
+- What is Reuux?
+ - Redux is a flexible State Container for JavaScript Apps  that manages our application state separately
+ - রিডাক্স  স্টেট  কে  কনটেন্ট  করে  রাখে। রিডাক্স স্টেটকে কনটেন্ট  করে  রাখে  বলে  তাকে   স্টেট  কন্টেইনার  বলা  হয়। জাভাস্ক্রিপ্ট দিয়া তৈরি  করা  একটি  লাইব্রেরি। 
 
 1. Install Redux Toolkit and React-Redux -(*[Redux](https://redux.js.org/)*.)
    ```sh
