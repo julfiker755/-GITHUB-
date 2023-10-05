@@ -18,3 +18,7 @@
 
 - Reducer ধর্ম
   - পিওর ফাংশন ব্যবহার করতে হবে। পিওর ফাংশন নিজের কাজ ছাড়া অন্য কোন কাজ করবে না। বাইরের কোন জিনিস পরিবর্তন করতে পারবে না।
+- Immutability concept
+  - Immutability - যেটা পরিবর্তন করা যায় না
+- reducer
+  - reducer শব্দটি এসেছে Array.reduce থেকে। reducer  একটি  বড় আরে  কে  single array তে   পরিনিত করে | reducer function টা Redux actions কে reduce করে ।
