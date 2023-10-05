@@ -8,10 +8,11 @@
   - Redux is a flexible State Container for JavaScript Apps  that manages our application state separately
   - রিডাক্স  স্টেট  কে  কনটেন্ট  করে  রাখে। রিডাক্স স্টেটকে কনটেন্ট  করে  রাখে  বলে  তাকে   স্টেট  কন্টেইনার  বলা  হয়। জাভাস্ক্রিপ্ট দিয়া তৈরি  করা  একটি  লাইব্রেরি। 
 
-1. Install Redux Toolkit and React-Redux -(*[Redux](https://redux.js.org/)*.)
-   ```sh
-    npm install @reduxjs/toolkit react-redux
-   ```
+- table of contents
+  - Module 1 - Redux Fundamentals
+  - Module 2 - Introduction to react-redux -Hooks & Middlewares
+  - Module 3 - Project - Simple Todo Application in react-redux
+
 1. Module 2 -Module 3
    - Inroducation and simple todo (==)Github Source code:-*[Source code](https://github.com/julfiker755/lean-width-sumit)*
 2. Module 6 - Project - Video Website with Redux Toolkit
