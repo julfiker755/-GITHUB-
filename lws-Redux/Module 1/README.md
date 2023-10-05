@@ -21,7 +21,7 @@
 - Immutability concept
   - Immutability - যেটা পরিবর্তন করা যায় না
 - reducer
-  - reducer শব্দটি এসেছে Array.reduce থেকে। reducer  একটি  বড় আরে  কে  single array তে   পরিনিত করে | reducer function টা Redux actions কে reduce করে ।
+  - reducer শব্দটি এসেছে Array.reduce থেকে। reducer  একটি  বড় আরে  কে  single array তে   পরিনিত করে | reducer function টা Redux actions কে reduce করে |
  
   
  > ###  Module+Assignment [✔ Source code](https://github.com/julfiker755/lws-module1/tree/main).
