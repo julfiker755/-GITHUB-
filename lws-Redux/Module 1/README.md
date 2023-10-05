@@ -24,4 +24,4 @@
   - reducer শব্দটি এসেছে Array.reduce থেকে। reducer  একটি  বড় আরে  কে  single array তে   পরিনিত করে | reducer function টা Redux actions কে reduce করে ।
  
   
- > ##  Class+Assignment [✔ Source code](https://github.com/julfiker755/Advance-TypeScript-and-Types).
+ > ###  module+Assignment [✔ Source code](https://github.com/julfiker755/Advance-TypeScript-and-Types).
