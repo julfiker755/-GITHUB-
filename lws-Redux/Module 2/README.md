@@ -7,4 +7,6 @@
 1. Install Infroducation
    ```sh
     npm install redux react-redux
+    npm install redux-logger
+    npm install redux-devtools-extension
    ```
