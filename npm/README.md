@@ -39,6 +39,8 @@
 - *[react-fast-marquee](https://www.react-fast-marquee.com/)* - A collection react-fast-marquee
 ###  animation
 - *[Aos](https://michalsnik.github.io/aos/)* - A collection aos
+###  Timeline
+- *[react-vertical-timeline-component](https://www.npmjs.com/package/react-vertical-timeline-component)* - A collection react-vertical-timeline-component
 
 
 
