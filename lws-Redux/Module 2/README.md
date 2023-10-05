@@ -4,7 +4,7 @@
 </p>
 
 
-1. Install Redux Toolkit and React-Redux -(*[Redux](https://redux.js.org/)*.)
+1. Install Infroducation
    ```sh
-    npm install @reduxjs/toolkit react-redux
+    npm install redux react-redux
    ```
