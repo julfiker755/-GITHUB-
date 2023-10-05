@@ -94,6 +94,7 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - GoFullPage [note:full page pdf,jpg,png kora]
   - Pesticide for Chrome [note:website ke select kora]
   - React Developer Tools  [note:react most popular extensition]
+  - Redux DevTools  [note:Redux Dev tools]
 > PowerShell Not working
 - Powershell Warning
   - PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes.
