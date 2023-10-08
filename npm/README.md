@@ -43,7 +43,7 @@
 - *[react-vertical-timeline-component](https://www.npmjs.com/package/react-vertical-timeline-component)* - A collection react-vertical-timeline-component
 
 ### Photo / Image/ Gallery
- 
+- [lightGallery](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - A collection  lightbox gallery component.
 
 
 
