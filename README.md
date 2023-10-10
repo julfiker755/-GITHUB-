@@ -96,7 +96,7 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - React Developer Tools  [note:react most popular extensition]
   - Redux DevTools  [note:Redux Dev tools]
 > PowerShell Not working
-- Powershell Warning
+- Powe
   - PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes.
   - PowerShell detected that you might be using a screen reader and has disabled PSReaLine for compatibility pur poses.If you want to re-enable it,run 'Import-Module PSReadLine'.
   
