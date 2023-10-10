@@ -95,14 +95,6 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - Pesticide for Chrome [note:website ke select kora]
   - React Developer Tools  [note:react most popular extensition]
   - Redux DevTools  [note:Redux Dev tools]
-> PowerShell Not working
-- Powe
-  - PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes.
-  - PowerShell detected that you might be using a screen reader and has disabled PSReaLine for compatibility pur poses.If you want to re-enable it,run 'Import-Module PSReadLine'.
   
-Powershell Sloved Link:: [Stack Exchange](https://serverfault.com/questions/1014754/cause-of-warning-powershell-detected-that-you-might-be-using-a-screen-reader-an).
-- Example Image
-![alt text](01.png)
-Javascript Books All Resources:: [Book](https://with.zonayed.me).
-
-> Responsive check [https://ui.dev/amiresponsive](https://ui.dev/amiresponsive).
+> Javascript Books All Resources:: [Book](https://with.zonayed.me).
+> Responsive check [Responsive](https://ui.dev/amiresponsive).
