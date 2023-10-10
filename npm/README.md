@@ -44,6 +44,8 @@
 
 ### Photo / Image/ Gallery
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - A collection  lightbox gallery component.
+### Svg design
+- [svg](https://getwaves.io/?fbclid=IwAR2rtF4hTk-uO2VA_BBHIK62gz7Tz0QWroFkH4Fk1firstsahrf9ErKdg9k) -  A collection  svg
 
 
 
