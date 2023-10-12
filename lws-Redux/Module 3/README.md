@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
  <p align="center">
-    <h1 align="center">Module 2 - Introduction to react-redux - Hooks & Middlewares</h1>
+    <h1 align="center">Module 3 - Project - Simple Todo Application in react-redux</h1>
 </p>
 
 
