@@ -12,9 +12,9 @@
   - Module 1 - Redux Fundamentals
   - Module 2 - Introduction to react-redux -Hooks & Middlewares
   - Module 3 - Project - Simple Todo Application in react-redux
+  - Module 4 - Project - Advanced Todo Application - Async Logic & Data Fetching(Redux Thunk)
 
-1. Module 2 -Module 3
-   - Inroducation and simple todo (==)Github Source code:-*[Source code](https://github.com/julfiker755/lean-width-sumit)*
+
 2. Module 6 - Project - Video Website with Redux Toolkit
    - Video Website(==)Github Source code:-*[Source code](https://github.com/julfiker755/lws-module6-video-wepsite)*
    - Assignment(==)Github Source code:-*[Source code](https://github.com/julfiker755/lws-assignment-6)*
