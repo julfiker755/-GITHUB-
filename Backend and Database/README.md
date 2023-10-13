@@ -4,6 +4,7 @@
 </p>
 
    ```sh
+    npm init --y | npm init
     npm i express cors mongodb
    ```
    ```sh
