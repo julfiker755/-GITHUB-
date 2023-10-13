@@ -6,6 +6,17 @@
    ```sh
     npm i express cors mongodb
    ```
+   ```sh
+    "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   ```
 - Simple Nodejs,Express js Introduction => *[official site](https://expressjs.com/)* || *[my site](https://neon-faun-e87171.netlify.app/)*
 - Mongobd,database integrate,*[curd oprations](https://www.mongodb.com/docs/drivers/node/current/usage-examples/)*+*[(npm dot env)](https://www.npmjs.com/package/dotenv)*
   - Mongobd create a account,mongobd and server connect *[Mongobd](https://www.mongodb.com/)*
