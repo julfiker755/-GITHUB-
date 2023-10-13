@@ -3,6 +3,9 @@
     <h1 align="center">Backend and Database Integrate</h1>
 </p>
 
+   ```sh
+    npm i express cors mongodb
+   ```
 - Simple Nodejs,Express js Introduction => *[official site](https://expressjs.com/)* || *[my site](https://neon-faun-e87171.netlify.app/)*
 - Mongobd,database integrate,*[curd oprations](https://www.mongodb.com/docs/drivers/node/current/usage-examples/)*+*[(npm dot env)](https://www.npmjs.com/package/dotenv)*
   - Mongobd create a account,mongobd and server connect *[Mongobd](https://www.mongodb.com/)*
