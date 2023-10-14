@@ -5,7 +5,7 @@
 
    ```sh
     npm init --y | npm init
-    npm i express cors mongodb
+    npm i express cors mongodb dotenv
    ```
    ```sh
     "scripts": {
