@@ -19,6 +19,7 @@
      Package.json-----
     "scripts": {
     "start":"ts-node-dev --respawn --transpile-only server.ts",
+     "dev": "ts-node-dev --rs --poll ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
     },
     TypeScript run comands: npx ts-node-dev --respawn .\src\index.ts
