@@ -14,14 +14,6 @@
     Installation typescript:-
     npm install -g typescript | tsc --v | tsc --version |
     run file= tsc index.ts | typescript configaration file= tsc -- init | package.json file comoand=npm init -y
-    Nodemon Installation:-
-    npm install -g nodemon | nodemon -v | how to run::::-nodemon dev
-    Package.json-----
-    "scripts": {
-    "start":"node app.js",
-    "start-dev":"nodemon app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-    },
     ts-node-dev package  Installation | npm i ts-node-dev | start:--npx ts-node-dev src/Function.ts|
     {["rootDir":'./src']+["outDir":'./dist']}
      Package.json-----
