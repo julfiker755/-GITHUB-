@@ -11,6 +11,9 @@
     Node Version Change:-
     node -v | node -- version |
     nvm -v | nvm list | nvm install 19.8.1 | nvm use 18.16.0
+    ```
+     
+    ```sh
     Installation typescript:-
     npm install -g typescript | tsc --v | tsc --version |
     run file= tsc index.ts | typescript configaration file= tsc -- init | package.json file comoand=npm init -y
@@ -25,7 +28,7 @@
     },
     TypeScript run comands: npx ts-node-dev --respawn .\src\index.ts
      
-    ```
+    ``` 
 -  Module 3 :Explore advance Types of Typescript and link [✔Module 3+advance Basic Types ](https://github.com/julfiker755/Advance-TypeScript-and-Types).
 -  Module 4 :Object-Oriented Programming in TypeScript and link [✔Module 4+ Object-Oriented Programming ](https://github.com/julfiker755/Object-Oriented-Programming-in-TypeScript/tree/main).
 -  Module 4 : Conceptual Sessions Typescript[✔Module 4+ Conceptual-sessions](https://github.com/julfiker755/Conceptual-sessions-typescript).
