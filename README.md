@@ -44,11 +44,16 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
 > ## **Origin diya download**
 - git clone https://github.com/ProgrammingHero1/redux-cart.git
 
-> ## github remove .env file
+> ## github remove (.env node_modules) file
 0. ভুলে .env ফোল্ডারটি git add,commit push করে  গিটহাব  আপলোড করে ফেলেছি.এখন কি করব ✔Solutions
 1. git rm -r --cached .env
 2. git add .
 3. git commit -m "removeing .env file"
+4. git push -f
+0. ভুলে node_modules ফোল্ডারটি git add,commit push করে  গিটহাব  আপলোড করে ফেলেছি.এখন কি করব ✔Solutions
+1. git rm -r --cached node_modules
+2. git add .
+3. git commit -m "removeing node_modules"
 4. git push -f
 
 
