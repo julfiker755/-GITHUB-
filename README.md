@@ -44,6 +44,13 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
 > ## **Origin diya download**
 - git clone https://github.com/ProgrammingHero1/redux-cart.git
 
+> ভুলে .env ফোল্ডারটি git add,commit push করে  গিটহাব  আপলোড করে ফেলেছি.এখন কি করব ✔Solutions
+1. git rm -r --cached .env
+2. git add .
+3. git commit -m "removeing .env file"
+4. git push -f
+
+
 > ## Markdown
 - Readme file ta dekte caile…………….
 - clt+shift+P and Markdown:Open Preview(clt+Shit+V)
