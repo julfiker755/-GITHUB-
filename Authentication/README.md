@@ -4,7 +4,7 @@
 
  ![alt text](c.png)
  
-> ## Additional providers--booking.com
+> ## Additional providers---booking.com
 - Simple React Firebase Authentication(google,github,facebook)
 - **react-firebase-hooks(Easy authentication=> google,github,facebook)
   - Github Source code(==):-*[Source code](https://github.com/julfiker755/2023-authentication-google-facebook-github)*
