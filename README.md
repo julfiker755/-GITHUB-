@@ -84,6 +84,9 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - Material Icon Theme/Theme - Seti-Monokai
   - Code Spell Checker(English check banna vull)
   - Better Comments
+- API check
+  - postman
+  - Thunder Client
   - RapidAPI Client
 - react js extension
   - Reactjs code snippets-(rsc,rfc)
