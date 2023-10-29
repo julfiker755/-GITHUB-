@@ -41,7 +41,7 @@
 - *[react-fast-marquee](https://www.react-fast-marquee.com/)* - A collection react-fast-marquee
 ###  animation/animation Image
 - *[Aos](https://michalsnik.github.io/aos/)* - A collection aos
-- *[lottiefiles](https://lottiefiles.com/)+[lottie-react](https://www.npmjs.com/package/lottie-react)++[discripation](https://github.com/julfiker755/IMPORTANT/tree/main/lottie-react)* - A collection lottiefiles
+- *[lottiefiles](https://lottiefiles.com/)+[lottie-react](https://www.npmjs.com/package/lottie-react)+[discripation](https://github.com/julfiker755/IMPORTANT/tree/main/lottie-react)* - A collection lottiefiles
 ###  Timeline
 - *[react-vertical-timeline-component](https://www.npmjs.com/package/react-vertical-timeline-component)*- A collection react-vertical-timeline-component
 
