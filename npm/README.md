@@ -49,6 +49,7 @@
 ### Svg design
 - [svg](https://getwaves.io/?fbclid=IwAR2rtF4hTk-uO2VA_BBHIK62gz7Tz0QWroFkH4Fk1firstsahrf9ErKdg9k) -  A collection  svg
 - [haikei](https://app.haikei.app/) -  A collection haikei
+- [Clippath](https://bennettfeely.com/clippy/) -  A collection clippath
 ### image size (kb)
 - [tinypng](https://tinypng.com/) -  A collection tinypng
 
