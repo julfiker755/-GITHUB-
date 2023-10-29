@@ -111,6 +111,8 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - Pesticide for Chrome [note:website ke select kora]
   - React Developer Tools  [note:react most popular extensition]
   - Redux DevTools  [note:Redux Dev tools]
+  - JSON Formatter [scrial show data]
+  - JSON Viewer [scrial show data the my best]
   
 > Javascript Books All Resources:: [Book](https://with.zonayed.me).
 
