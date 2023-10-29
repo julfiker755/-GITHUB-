@@ -22,6 +22,7 @@
 ### Calendar
 - *[React js react-day-picker](https://www.npmjs.com/package/react-day-picker)* - A collection react js react-day-picker
 - *[Moment js](https://momentjs.com/)* - A collection react js momentjs
+- *[date-fns](https://www.npmjs.com/package/date-fns)* - A collection react js date-fns
 ### Meta Tags
 - *[react-helmet-async](https://www.npmjs.com/package/react-helmet-async)* - A collection react js react-helmet-async
 ### React Alert
