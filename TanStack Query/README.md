@@ -79,7 +79,7 @@
             const res2 = await fetch('http://localhost:5000/service');
             const data1=await res1.json();
             const data1=await res2.json();
-             return {data1,data2}
+            return {data1,data2}
         }
     })
 ```
