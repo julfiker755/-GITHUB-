@@ -90,9 +90,9 @@
           const {isError, error, data: users,refetch } = useQuery({
         queryKey: ['user'],
         queryFn: async () => {
-            const res2 = await fetch('http://localhost:5000/service');
-            const data1=await res2.json();
-            return data1
+        const res2 = await fetch('http://localhost:5000/service');
+        const data1=await res2.json();
+        return data1
         }
     })
    return {isError, error, data: users,refetch}
