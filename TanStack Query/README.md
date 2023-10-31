@@ -84,3 +84,18 @@
     })
 //Note:: data in use to array data1,data2  for example
 ```
+```js
+     //create your hooks project::useHooks
+     const useOrdereview=()=>{
+          const {isError, error, data: users,refetch } = useQuery({
+        queryKey: ['user'],
+        queryFn: async () => {
+            const res2 = await fetch('http://localhost:5000/service');
+            const data1=await res2.json();
+            return data1
+        }
+    })
+   return {isError, error, data: users,refetch}
+    }
+   export default useOrdereview;
+```
