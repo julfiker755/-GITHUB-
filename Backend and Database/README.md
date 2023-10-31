@@ -24,7 +24,6 @@
   - post,get,basic routing,delete,put(update), api *[get+post+put+delete](https://github.com/julfiker755/Backend-p-g-p-d)*
   - ***axios js(get,post,delete,put,api use)  *[axiosjs-get+post+put+delete](https://github.com/julfiker755/axiosjs-Backend-g-p-p-u-d)*
   - ****** advance (advance)  *[addvance code](https://github.com/julfiker755/g-p-p-d-addvance)*
- - curd oprations full project=>get+post+put+update *[Project live website](https://backdend.netlify.app/)* -:||-: *[Project source code](https://github.com/julfiker755/Backend-project-g-p-p-u)*
  -  curd oprations Pratic project=>get+post+put+update *[Project source code](https://github.com/julfiker755/Pratic-GPUDU)*
   - car doctors full project=>*[Project live website](https://646f8b61411d0b11cc38e768--astounding-shortbread-535149.netlify.app/)* -:||-: *[Project source code](https://github.com/julfiker755/car-doctor-full-jwt-axios)*
 - Pagination (==)Github Source code:-*[Source code](https://github.com/julfiker755/Pagination/tree/main)*
