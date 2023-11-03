@@ -4,30 +4,11 @@
 
 > ### React Router dom difination
 ওয়েবসাইটের এক পেইজ থেকে আরেক পেইজে যাওয়া আসা, ঘুরাঘুরি করা। সেটা ব্যবহার করার জন্য সিম্পল এবং মজার একটি জিনিস আছে। সেটাকে  React Router dom বলে
-> ### React Router dom and States
-- basic simple Router
-- Simple Router
-- Nested Router
-- Ema john width React Router dom
-- Simple context api devtool
-- Search component for React                                            
-> ### Project Examples
- ### **Technology used:**
-1. React js
-2. Tailwind css
-3. React router dom
-4. Daisyui
-5. React toastify
-6. React icons
-7. Pagination
-8. image alert
-9. Git api
-10. Recharts
 
 - batch8+Basic router,NavLink:-*[Live Link](https://6509a822a0dbc7009bd25f56--sprightly-melomakarona-4a2614.netlify.app/)+[Github source code](https://github.com/julfiker755/batch-8-Basic-router)*
 - batch8+ ReCharts:-*[Live Link](https://regal-queijadas-1fb97a.netlify.app/)+[Github source code](https://github.com/julfiker755/Recharts)*
 - batch8+ CareerHub simple project:-*[Live Link](https://650dca1ed1e26811a3dc0084--moonlit-truffle-44f361.netlify.app/)+[Github source code](https://github.com/julfiker755/careerhub-simple-project/tree/main)*
-- batch8 + best pratic :-*[Live Link](https://sweet-strudel-e3510e.netlify.app/)+[Github source code](https://github.com/julfiker755/router-best-pratic)*
+- batch8 + best pratic+live link :-*[Github source code](https://github.com/julfiker755/best-pratic)*
 - router fetch,parms,customLink,NavLink:-*[Wepsite link](https://elaborate-lily-17f8a4.netlify.app/home)+[Github Source code](https://github.com/julfiker755/2023-react-router-dom)*
 - *****Same wepsite example
 - batch8+ same :-*[Live Link](https://themealbd755.netlify.app/)+[Github source code](https://github.com/julfiker755/2023-the-meal-bd-assignment)*
