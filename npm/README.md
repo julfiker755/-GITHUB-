@@ -53,6 +53,8 @@
 - [Clippath](https://bennettfeely.com/clippy/) -  A collection clippath
 ### image size (kb)
 - [tinypng](https://tinypng.com/) -  A collection tinypng
+### Tooltip
+- [cooltipz](https://cooltipz.jackdomleo.dev/) -  A collection cooltipz
 
 
 
