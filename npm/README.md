@@ -20,7 +20,8 @@
 ### Pagination
 - *[React js paginations](https://www.npmjs.com/package/react-responsive-pagination)* - A collection react js paginations
 ### Calendar
-- *[React js react-day-picker](https://www.npmjs.com/package/react-day-picker)* - A collection react js react-day-picker
+- *[react-day-picker](https://www.npmjs.com/package/react-day-picker)* - A collection react js react-day-picker
+- *[react-datepicker](https://www.npmjs.com/package/react-datepicker)* - A collection react js react-datepicker
 - *[Moment js](https://momentjs.com/)* - A collection react js momentjs
 - *[date-fns](https://www.npmjs.com/package/date-fns)* - A collection react js date-fns
 ### Meta Tags
