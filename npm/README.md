@@ -4,7 +4,18 @@
     <hr/>
 </p>
 
+
 > ## A List of Useful npm Packages for React Developers
+
+### Tailwind css and library Collection
+- *[Daisyui](https://daisyui.com)* -  A collection of Daisyui
+- *[Flowbite](https://flowbite.com)* -  A collection of Flowbite
+- *[Tailwindcomponents](https://tailwindcomponents.com)* -  A collection of tailwindcomponents
+- *[Mambaui](https://mambaui.com)* -  A collection of Mambaui
+- *[Merakiui](https://merakiui.com)* -  A collection of Merakiui
+
+
+
 ### Individual UI components 
 - *[Awesome-react-components](https://github.com/brillout/awesome-react-components?fbclid=IwAR1bPllgfigdf1j40FebHwvBpOHEY4JLh8NwVFxAIBbK-VUZvigJbw763hw#form-components)* -  A collection of Awesome-react-> components
 - *[react-use](https://github.com/streamich/react-use?fbclid=IwAR1mQqQyYWLfas5Q4QjgvE9tOSh1gaKF4CbDTSh93u5pn0AYYCCc5cajcvE)* - A collection of react-use
