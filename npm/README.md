@@ -54,6 +54,8 @@
 ###  animation/animation Image
 - *[Aos](https://michalsnik.github.io/aos/)+[discripation](https://github.com/julfiker755/IMPORTANT/tree/main/aos)* - A collection aos
 - *[lottiefiles](https://lottiefiles.com/)+[lottie-react](https://www.npmjs.com/package/lottie-react)+[discripation](https://github.com/julfiker755/IMPORTANT/tree/main/lottie-react)* - A collection lottiefiles
+- *[Threejs](https://threejs.org)+A collection threejs
+- *[Framer](https://www.framer.com/motion)+A collection framer
 ###  Timeline
 - *[react-vertical-timeline-component](https://www.npmjs.com/package/react-vertical-timeline-component)*- A collection react-vertical-timeline-component
 
