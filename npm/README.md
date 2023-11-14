@@ -70,6 +70,8 @@
 - [tinypng](https://tinypng.com/) -  A collection tinypng
 ### Tooltip
 - [cooltipz](https://cooltipz.jackdomleo.dev/) -  A collection cooltipz
+### Captcha
+- [React-simple-captcha](https://github.com/masroorejaz/react-simple-captcha) -  A collection react-simple-captcha
 
 
 
