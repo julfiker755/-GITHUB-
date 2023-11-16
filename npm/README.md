@@ -45,6 +45,7 @@
 ### React Loader
 - *[react-loader-spinner](https://mhnpd.github.io/react-loader-spinner/)* - A collection react-loader-spinner
 - *[react-spinners](https://www.npmjs.com/package/react-spinners)* - A collection react-spinners
+- *[custom-spinners-live](https://julfiker755.github.io/Animation-css)+[Github code](https://github.com/julfiker755/Animation-css)* - A collection custom-spinners
 ### Icons
 - *[React Icons](https://react-icons.github.io/react-icons/)* - A collection React Icons
 - *[Heroicons](https://heroicons.com/)* - A collection Heroicons
