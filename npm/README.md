@@ -39,10 +39,12 @@
 ### Meta Tags
 - *[react-helmet-async](https://www.npmjs.com/package/react-helmet-async)* - A collection react js react-helmet-async
 ### React Alert
-- *[sweetalert](https://sweetalert.js.org/guides/)* - A collection react sweetalert
+- *[react-hot-toast](https://react-hot-toast.com/)* - A collection react-hot-toast
 - *[sweetalert 2](https://sweetalert2.github.io/)* - A collection react sweetalert 2
 - *[React-Toastify](https://www.npmjs.com/package/react-toastify)* - A collection react react-toastify
-- *[react-hot-toast](https://react-hot-toast.com/)* - A collection react-hot-toast
+- *[sweetalert](https://sweetalert.js.org/guides/)* - A collection react sweetalert
+
+
 ### React Loader
 - *[react-loader-spinner](https://mhnpd.github.io/react-loader-spinner/)* - A collection react-loader-spinner
 - *[react-spinners](https://www.npmjs.com/package/react-spinners)* - A collection react-spinners
