@@ -84,6 +84,7 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - Material Icon Theme/Theme - Seti-Monokai
   - Code Spell Checker(English check banna vull)
   - Better Comments
+  - Beautify (alo melo code format kore)
 - API check
   - postman
   - Thunder Client
@@ -95,8 +96,6 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - Redux DevTools
   - React Extension Pack
   - Axios Snippets
-- vs code figma file open (Easy solutions)
-  - Figma for VS Code
 - tawild css extenstion
   - Tailwind CSS IntelliSense
   - Inline fold
