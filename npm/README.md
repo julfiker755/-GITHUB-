@@ -83,8 +83,8 @@
 - [Formik](https://formik.org/docs/overview) -  A collection formik
 - [React-hook-form](https://www.react-hook-form.com) -  A collection react-hook-form
 ### Accordion /Tab 
-- [Accordion](https://merri.github.io/react-tabbordion) -  A collection react-tabbordion
-- [React-tabs](https://github.com/Merri/react-tabbordion) - [Live demo](https://github.com/reactjs/react-tabs) -  A collection react-tabs
+- [React-tabs](https://github.com/reactjs/react-tabs) -  A collection react-tabs
+- [Accordion](https://github.com/Merri/react-tabbordion) - [Live demo](https://merri.github.io/react-tabbordion) -  A collection react-tabbordion
 
 
 
