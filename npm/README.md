@@ -84,7 +84,7 @@
 - [React-hook-form](https://www.react-hook-form.com) -  A collection react-hook-form
 ### Accordion /Tab 
 - [Accordion](https://merri.github.io/react-tabbordion) -  A collection react-tabbordion
-- [React-tabs](https://github.com/Merri/react-tabbordion) [Live](https://github.com/reactjs/react-tabs) -  A collection react-tabs
+- [React-tabs](https://github.com/Merri/react-tabbordion)-[Live](https://github.com/reactjs/react-tabs) -  A collection react-tabs
 
 
 
