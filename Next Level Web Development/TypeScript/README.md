@@ -22,12 +22,12 @@
      Package.json-----
     "scripts": {
     "start":"ts-node-dev --respawn --transpile-only server.ts",
-     "start":"tsnd --respawn server.ts"
-    "dev": "ts-node-dev --rs --poll ./src/index.ts",
+    "start":"tsnd --respawn server.ts"
+    "start": "ts-node-dev --rs --poll ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
     },
     TypeScript run comands: npx ts-node-dev --respawn .\src\index.ts
-     
+    TypeScript run comands: npm start
     ``` 
 -  Module 3 :Explore advance Types of Typescript and link [✔Module 3+advance Basic Types ](https://github.com/julfiker755/Advance-TypeScript-and-Types).
 -  Module 4 :Object-Oriented Programming in TypeScript and link [✔Module 4+ Object-Oriented Programming ](https://github.com/julfiker755/Object-Oriented-Programming-in-TypeScript/tree/main).
