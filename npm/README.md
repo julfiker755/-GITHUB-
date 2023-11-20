@@ -29,7 +29,7 @@
 - *[react-owl-carousel](https://www.npmjs.com/package/react-owl-carousel)* - A collection of react-owl-carousel
 - *[react-select-most-popular-npm](https://github.com/JedWatson/react-select)* - A collection of react-select
 - *[react-phone-number-input](https://www.npmjs.com/package/react-phone-number-input)* - A collection of react-phone-number-input
-### carousel / slider
+### Carousel / Slider
 - *[swiperjs](https://swiperjs.com/)* - A collection of swiperjs
 - *[React-multi-carousel](https://www.npmjs.com/package/react-multi-carousel)* - A collection of react-multi-carousel
 ### recaptcha
