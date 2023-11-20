@@ -25,10 +25,13 @@
 - *[react-use](https://github.com/streamich/react-use?fbclid=IwAR1mQqQyYWLfas5Q4QjgvE9tOSh1gaKF4CbDTSh93u5pn0AYYCCc5cajcvE)* - A collection of react-use
 ### Most usefull
 - *[uiverse](https://uiverse.io/)* - A collection of uiverse for html..
-- *[swiperjs](https://swiperjs.com/)* - A collection of swiperjs
+
 - *[react-owl-carousel](https://www.npmjs.com/package/react-owl-carousel)* - A collection of react-owl-carousel
 - *[react-select-most-popular-npm](https://github.com/JedWatson/react-select)* - A collection of react-select
 - *[react-phone-number-input](https://www.npmjs.com/package/react-phone-number-input)* - A collection of react-phone-number-input
+### carousel / slider
+- *[swiperjs](https://swiperjs.com/)* - A collection of swiperjs
+- *[React-multi-carousel](https://www.npmjs.com/package/react-multi-carousel)* - A collection of react-multi-carousel
 ### recaptcha
 - *[react-google-recaptcha](https://github.com/dozoisch/react-google-recaptcha)* - A collection of react-google-recaptcha
 - *[react-simple-captcha](https://www.npmjs.com/package/react-simple-captcha)* - A collection of react-simple-captcha
