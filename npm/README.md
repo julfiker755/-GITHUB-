@@ -41,7 +41,7 @@
 - *[react-day-picker](https://www.npmjs.com/package/react-day-picker)* - A collection react js react-day-picker
 - *[react-datepicker](https://www.npmjs.com/package/react-datepicker)* - A collection react js react-datepicker
 - *[Moment js](https://momentjs.com/)* - A collection react js momentjs
-- *[date-fns](https://www.npmjs.com/package/date-fns)+[discripation ❤](https://github.com/julfiker755/IMPORTANT/tree/main/date%20fns)* - A collection react js date-fns
+- *[date-fns](https://www.npmjs.com/package/date-fns)+[discripation 💢](https://github.com/julfiker755/IMPORTANT/tree/main/date%20fns)* - A collection react js date-fns
 ### Meta Tags
 - *[react-helmet-async](https://www.npmjs.com/package/react-helmet-async)* - A collection react js react-helmet-async
 ### React Alert
