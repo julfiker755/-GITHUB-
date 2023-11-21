@@ -41,7 +41,7 @@
 - *[react-day-picker](https://www.npmjs.com/package/react-day-picker)* - A collection react js react-day-picker
 - *[react-datepicker](https://www.npmjs.com/package/react-datepicker)* - A collection react js react-datepicker
 - *[Moment js](https://momentjs.com/)* - A collection react js momentjs
-- *[date-fns](https://www.npmjs.com/package/date-fns)* - A collection react js date-fns
+- *[date-fns](https://www.npmjs.com/package/date-fns)+[discripation ❤](https://github.com/julfiker755/IMPORTANT/tree/main/date%20fns)* - A collection react js date-fns
 ### Meta Tags
 - *[react-helmet-async](https://www.npmjs.com/package/react-helmet-async)* - A collection react js react-helmet-async
 ### React Alert
@@ -62,8 +62,8 @@
 ###  Merquee slider
 - *[react-fast-marquee](https://www.react-fast-marquee.com/)* - A collection react-fast-marquee
 ###  animation/animation Image
-- *[Aos](https://michalsnik.github.io/aos/)+[discripation](https://github.com/julfiker755/IMPORTANT/tree/main/aos)* - A collection aos
-- *[lottiefiles](https://lottiefiles.com/)+[lottie-react](https://www.npmjs.com/package/lottie-react)+[discripation](https://github.com/julfiker755/IMPORTANT/tree/main/lottie-react)* - A collection lottiefiles
+- *[Aos](https://michalsnik.github.io/aos/)+[discripation❤](https://github.com/julfiker755/IMPORTANT/tree/main/aos)* - A collection aos
+- *[lottiefiles](https://lottiefiles.com/)+[lottie-react](https://www.npmjs.com/package/lottie-react)+[discripation❤](https://github.com/julfiker755/IMPORTANT/tree/main/lottie-react)* - A collection lottiefiles
 - *[Threejs](https://threejs.org)*+A collection threejs
 - *[Framer](https://www.framer.com/motion)*+A collection framer
 - *[React-spring](https://www.react-spring.dev/docs/components)*+A collection react-spring
