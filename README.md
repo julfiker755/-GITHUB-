@@ -115,7 +115,7 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - Temp Mail [Random email ganared]
   
 >  ## Github Profile design demo link
- - [Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/?fbclid=IwAR3ii_ruZb77CXCzR0zuZH1KszltxtoVgW-K9YPcfc4YXeCZycEuQ6-58Co)  ||  [Average](https://github.com/avgupta456/github-trends?fbclid=IwAR2uJF-QjJW5ugP4hBxlYjAn4yL70NqRd672HvgeGArk5XqkHVhHXeiBy5o)  ||  [Skill icons](https://github.com/tandpfun/skill-icons?fbclid=IwAR0Ht-cpZP6RGrmF2Jwf2TsNn-eFdm6MsnMcsrD7qqdm-KEs-fxAwIbZxHM)  || [Profile Summary](https://github.com/vn7n24fzkq/github-profile-summary-cards?fbclid=IwAR3faUdbfeii6_X2ZWbP0f5Hn2UEQxQE_e0WhNZscpCRS2-0iYC40_JmOKc) 
+ - [Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/?fbclid=IwAR3ii_ruZb77CXCzR0zuZH1KszltxtoVgW-K9YPcfc4YXeCZycEuQ6-58Co)  ||  [Average](https://github.com/avgupta456/github-trends?fbclid=IwAR2uJF-QjJW5ugP4hBxlYjAn4yL70NqRd672HvgeGArk5XqkHVhHXeiBy5o)  ||  [Skill icons](https://github.com/tandpfun/skill-icons?fbclid=IwAR0Ht-cpZP6RGrmF2Jwf2TsNn-eFdm6MsnMcsrD7qqdm-KEs-fxAwIbZxHM)  || [Profile Summary](https://github.com/vn7n24fzkq/github-profile-summary-cards?fbclid=IwAR3faUdbfeii6_X2ZWbP0f5Hn2UEQxQE_e0WhNZscpCRS2-0iYC40_JmOKc)  || [Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) 
   
 > Javascript Books All Resources:: [Book](https://with.zonayed.me).
 
