@@ -2,8 +2,7 @@
     <h1 align="center">Start Project Demo file Structure </h1>
 </p>
 
-> ## React js/Client side/Frontend side -download
-  - Client (==):-*[Source code](https://github.com/julfiker755/client)*
+> ## React js/Client side/Frontend side *[Download](https://github.com/julfiker755/client)*
 
 
 
