@@ -3,7 +3,7 @@
 </p>
 
 > ###  React js/Client side/Frontend side/ *[Download](https://github.com/julfiker755/client)*
-> ###  Mongoose/server side/backend side/ *[Download](https://github.com/julfiker755/mongoose-start-server)*
+> ###  Mongoose+MVC patten/server side/backend side/ *[Download](https://github.com/julfiker755/mongoose-start-server)*
 
 
 
