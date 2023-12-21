@@ -98,7 +98,7 @@
 - [react-map-gl](https://visgl.github.io/react-map-gl/) -  A collection react-map-gl
 
 ### handsontabe table/Excel demo
-- [react-map-gl](https://handsontable.com/demo) -  A collection handsontable
+- [handsontable](https://handsontable.com/demo) -  A collection handsontable
 
 
 
