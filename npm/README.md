@@ -37,7 +37,8 @@
 - *[react-simple-captcha](https://www.npmjs.com/package/react-simple-captcha)* - A collection of react-simple-captcha
 ### Pagination
 - *[React js paginations](https://www.npmjs.com/package/react-responsive-pagination)* - A collection react js paginations
-### Calendar
+### Calendar 
+- *[react-date-range](https://hypeserver.github.io/react-date-range/)* - A collection react js react-date-range
 - *[react-day-picker](https://www.npmjs.com/package/react-day-picker)* - A collection react js react-day-picker
 - *[react-datepicker](https://www.npmjs.com/package/react-datepicker)* - A collection react js react-datepicker
 - *[Moment js](https://momentjs.com/)* - A collection react js momentjs
