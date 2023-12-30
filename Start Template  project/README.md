@@ -3,7 +3,7 @@
 </p>
 
 > ###  React js/Client side/Frontend side/ *[Download](https://github.com/julfiker755/client)*
-> ###  React js/React+Combine+Structure/ *[Download](https://github.com/julfiker755/React-combine-structure)*
+> ###  React js/(client+backend)+React Combine Structure/ *[Download](https://github.com/julfiker755/React-combine-structure)*
 > ###  Mongoose+MVC patten/server side/backend side/ *[Download](https://github.com/julfiker755/mongoose-start-server)*
 
 
