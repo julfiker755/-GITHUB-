@@ -96,6 +96,7 @@ GitHub সংস্করণ নিয়ন্ত্রণ এবং সহয�
   - Redux DevTools
   - React Extension Pack
   - Axios Snippets
+  - html to jsx
 - tawild css extenstion
   - Tailwind CSS IntelliSense
   - Inline fold
