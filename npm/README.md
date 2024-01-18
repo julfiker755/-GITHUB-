@@ -12,6 +12,7 @@
 
 ### Tailwind css and library Collection
 - *[Daisyui](https://daisyui.com)* -  A collection of Daisyui
+- *[Shadcn](https://ui.shadcn.com/)* -  A collection of shadcn
 - *[Headlessui](https://headlessui.com)* -  A collection of headlessui
 - *[Flowbite](https://flowbite.com)* -  A collection of Flowbite
 - *[Tailwindcomponents](https://tailwindcomponents.com)* -  A collection of tailwindcomponents
