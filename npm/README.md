@@ -106,6 +106,10 @@
 ### password
 - [bcrypt](https://www.npmjs.com/package/bcrypt) -  A collection bcrypt
 
+### Img Host
+- [imgbb](https://imgbb.com) -  A collection Imgbb
+- [multer](https://www.npmjs.com/package/multer) -  A collection multer
+- [formidable](https://www.npmjs.com/package/formidable) -  A collection formidable
 
 <p align="center">
     <h4 align="center">Next js npm</h4>
