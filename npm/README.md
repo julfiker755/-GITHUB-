@@ -70,6 +70,7 @@
 - *[Threejs](https://threejs.org)*+A collection threejs
 - *[Framer](https://www.framer.com/motion)*+A collection framer
 - *[React-spring](https://www.react-spring.dev/docs/components)*+A collection react-spring
+- *[svg-skeleton](https://svg-skeleton.js.org/)*+A collection svg-skeleton
 ###  Timeline
 - *[react-vertical-timeline-component](https://www.npmjs.com/package/react-vertical-timeline-component)*- A collection react-vertical-timeline-component
 
