@@ -119,6 +119,7 @@
 
 ### Progress Bar
 - [next-nprogress-bar](https://www.npmjs.com/package/next-nprogress-bar) -  A collection next-nprogress-bar
+- [nextjs-toploader](https://www.npmjs.com/package/nextjs-toploader) -  A collection nextjs-toploader
 
 
 
