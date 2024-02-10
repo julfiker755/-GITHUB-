@@ -21,3 +21,7 @@ model User {
 ```js
 npx prisma migrate dev --name init
 ```
+
+```js
+// Prisma Numbers Type
+```
