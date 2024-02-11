@@ -23,7 +23,28 @@ npx prisma migrate dev --name init
 ```
 
 ```js
-// data create
+// data create-Insert one
+import { NextResponse } from "next/server"
+import { PrismaClient } from '@prisma/client'
+
+export const POST=async(req,res)=>{
+  try{
+    const jsondata=await req.json()
+    const prisma = new PrismaClient()
+    let result=await prisma.employee.create({
+        data:jsondata
+    })
+    
+
+    return NextResponse.json({status:'success',data:result})
+
+  }catch(err){
+    console.log(err.toString())
+  }
+}
+```
+```js
+// data create-Insert Many
 import { NextResponse } from "next/server"
 import { PrismaClient } from '@prisma/client'
 
