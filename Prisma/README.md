@@ -22,6 +22,21 @@ model User {
 npx prisma migrate dev --name init
 ```
 
+
+```js
+// getdata
+export const GET=async(req,res)=>{
+  try{
+    const prisma = new PrismaClient()
+    const result=await prisma.employee.findMany()
+    return NextResponse.json({status:'success',data:result})
+
+  }catch(err){
+    console.log(err.toString())
+  }
+}
+```
+
 ```js
 // data create-Insert one
 import { NextResponse } from "next/server"
@@ -68,3 +83,4 @@ export const POST=async(req,res)=>{
   }
 }
 ```
+
