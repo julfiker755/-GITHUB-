@@ -10,18 +10,21 @@ npm install prisma --save-dev
 npx prisma init --datasource-provider sqlit
 npx prisma init --datasource-provider mysql
 ```
-```js
-model User {
-  id    Int     @id @default(autoincrement())
-  email String  @unique
-  name  String?
-  name  String
-}
-```
+
 ```js
 npx prisma migrate dev --name init
 ```
 
+```js
+model employee{
+  id Int @id @default(autoincrement())
+  name String
+  designation String
+  city String
+  salary String
+}
+
+```
 
 ```js
 // getdata
