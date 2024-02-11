@@ -52,8 +52,12 @@ export const POST=async(req,res)=>{
   try{
     const jsondata=await req.json()
     const prisma = new PrismaClient()
-    let result=await prisma.employee.create({
-        data:jsondata
+    let result=await prisma.employee.createMany({
+      data:[
+        {name:"julfiker1",designation:"student81",city:"India",salary:"44"},
+        {name:"julfiker2",designation:"student82",city:"India",salary:"44"},
+        {name:"julfiker3",designation:"student83",city:"India",salary:"44"},
+      ]
     })
     
 
