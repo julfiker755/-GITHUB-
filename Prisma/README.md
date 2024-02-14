@@ -2,6 +2,9 @@
  <h1 style="color:red;" align="center">Prisma Mysql</h1>
 </p>
 
+```js
+ 1. prisma Liser[Link](https://prismaliser.app/)
+```
 
 ```js
 npm install prisma --save-dev
