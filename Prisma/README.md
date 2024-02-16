@@ -115,3 +115,24 @@ export const POST=async(req,res)=>{
 }
 ```
 
+```js
+// delete data
+export const DELETE=async(req,res)=>{
+    try{
+        const {searchParams}=new URL(req.url)
+        const idvalue=searchParams.get("id")
+        const id=Number(idvalue)
+
+        const client=new PrismaClient()
+        const result=await client.employee.delete({
+            where:{id:id},
+        })
+
+        return NextResponse.json({status:'success',data:result})
+
+    }catch(err){
+        return NextResponse.json({status:'fail',message:err.toString()})
+    }
+}
+```
+
