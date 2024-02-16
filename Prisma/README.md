@@ -92,4 +92,26 @@ export const POST=async(req,res)=>{
   }
 }
 ```
+```js
+// update data
+export const POST=async(req,res)=>{
+    try{
+        const {searchParams}=new URL(req.url)
+        const idvalue=searchParams.get("id")
+        const id=Number(idvalue)
+        const jsondata=await req.json()
+
+        const client=new PrismaClient()
+        const result=await client.employee.update({
+            where:{id:id},
+            data:jsondata
+        })
+
+        return NextResponse.json({status:'success',data:result})
+
+    }catch(err){
+        return NextResponse.json({status:'fail',message:err.toString()})
+    }
+}
+```
 
