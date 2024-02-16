@@ -44,6 +44,11 @@ export const GET=async(req,res)=>{
     console.log(err.toString())
   }
 }
+
+// extra example
+ const result=await client.employee.findMany({
+            where:{name:'xx'}
+        })
 ```
 
 ```js
