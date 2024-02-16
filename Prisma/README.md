@@ -79,6 +79,10 @@ const result = await client.employee.findMany({
 const result = await client.employee.findFirst({
             orderBy: { id: "desc" }
         });
+// findUnique data 
+ const result = await client.employee.findUnique({
+            where:{id:6}
+        })
 ```
 
 ```js
