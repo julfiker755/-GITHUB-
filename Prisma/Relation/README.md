@@ -70,3 +70,16 @@ export const POST =async(req,res)=>{
     }
 }
 ```
+```js
+export const GET = async (req, res) => {
+    try {
+        const client = new PrismaClient();
+        const result = await client.users.findMany({
+            include:{profile:true,post:true,comment:true}
+        })
+        return NextResponse.json({ status: 'success', data: result });
+    } catch (err) {
+        return NextResponse.json({ status: 'fail', message: err.toString() });
+    }
+};
+```
