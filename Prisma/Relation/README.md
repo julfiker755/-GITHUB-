@@ -75,6 +75,7 @@ export const GET = async (req, res) => {
     try {
         const client = new PrismaClient();
         const result = await client.users.findMany({
+            // where:{email:{contains:"Julfiker755.bd@gmail.com"}},
             include:{profile:true,post:true,comment:true}
         })
         return NextResponse.json({ status: 'success', data: result });
