@@ -37,3 +37,36 @@ model comment{
   post post @relation(fields: [postId],references: [id],onDelete: Restrict,onUpdate: Cascade)
 }
 ```
+
+```js
+export const POST =async(req,res)=>{
+    try{
+        const jsondata=await req.json()
+        const client=new PrismaClient()
+        const result=await client.users.create({
+            data:{
+                email:"Julfiker7557.bd@gmail.com",
+                password:"123456789",
+                profile:{
+                    create:{
+                        fastname:"Julfiker",
+                        lastname:"Islam",
+                        city:"Bangladesh",
+                        phonenumber:"01441703755"
+                    }
+                },
+                post:{
+                 create:{
+                    title:"Hello world",
+                    discripation:"amer soner bangla ami two amy vlo basi"
+                 }
+                }
+            }
+        })
+        return NextResponse.json({status:'success',data:result})
+
+    }catch(err){
+        return NextResponse.json({status:'fail',message:err.toString()})
+    }
+}
+```
