@@ -75,6 +75,10 @@ const result = await client.employee.findMany({
            skip:2,
            take:2
         });
+// findFirst [employee fast object select]
+const result = await client.employee.findFirst({
+            orderBy: { id: "desc" }
+        });
 ```
 
 ```js
