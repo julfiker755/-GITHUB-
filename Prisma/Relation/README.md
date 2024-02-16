@@ -1,5 +1,7 @@
-// one to one Relation
+
 ```js
+// one to one Relation
+
 model users{
   id Int @id @default(autoincrement())
   email String @unique
