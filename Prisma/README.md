@@ -64,12 +64,12 @@ const result=await client.employee.findMany({
             where:{name:{contains:"xx"}}
         })
 // dese ---ase
-const result=await client.employee.findMany({
-            orderBy:{id:"ase"}
-        })
-const result=await client.employee.findMany({
-            orderBy:{id:"dese"}
-        })
+const result = await client.employee.findMany({
+            orderBy: { id: "asc" } 
+        });
+ const result = await client.employee.findMany({
+            orderBy: { id: "desc" }
+        });
 ```
 
 ```js
