@@ -59,7 +59,10 @@ const result=await client.employee.findMany({
             where:{name:'julfiker'},
             select:{id:true,name:true,city:false}
         })
-
+// contains [search data selct the fetch]
+ const result=await client.employee.findMany({
+            where:{name:{contains:"xx"}}
+        })
 ```
 
 ```js
