@@ -83,4 +83,11 @@ export const GET = async (req, res) => {
         return NextResponse.json({ status: 'fail', message: err.toString() });
     }
 };
+
+// example anathor
+  const result = await client.users.findMany({
+            include:{profile:true,post:{
+                where:{title:{contains:"Hello"}},
+            },comment:true}
+        })
 ```
