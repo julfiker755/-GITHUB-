@@ -70,6 +70,11 @@ const result = await client.employee.findMany({
  const result = await client.employee.findMany({
             orderBy: { id: "desc" }
         });
+// skip-take [skip-bad deyao/ take mane limit]
+ const result = await client.employee.findMany({
+           skip:2,
+           take:2
+        });
 ```
 
 ```js
