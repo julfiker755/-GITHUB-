@@ -46,9 +46,20 @@ export const GET=async(req,res)=>{
 }
 
 // extra example
+// whare
  const result=await client.employee.findMany({
             where:{name:'xx'}
         })
+// select
+const result=await client.employee.findMany({
+            select:{id:true,name:true,city:false}
+        })
+// whare and select
+const result=await client.employee.findMany({
+            where:{name:'julfiker'},
+            select:{id:true,name:true,city:false}
+        })
+
 ```
 
 ```js
