@@ -11,6 +11,7 @@
 - *[Keep-React](https://react.keepdesign.io/)* -  A collection of Keep React
 
 ### Tailwind css and library Collection
+- *[preline](https://preline.co/)* -  A collection of preline
 - *[Daisyui](https://daisyui.com)* -  A collection of Daisyui
 - *[Shadcn](https://ui.shadcn.com/)* -  A collection of shadcn
 - *[Headlessui](https://headlessui.com)* -  A collection of headlessui
